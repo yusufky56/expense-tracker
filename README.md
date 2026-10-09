@@ -59,3 +59,7 @@ src/
 │   └── storage.ts           # localStorage with validation, demo data
 └── types.ts
 ```
+
+## License
+
+[MIT](LICENSE)
